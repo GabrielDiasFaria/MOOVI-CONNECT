@@ -1,0 +1,5 @@
+CLASS zbp_i_carga_roteir DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zi_carga_roteir.
+ENDCLASS.
+
+CLASS zbp_i_carga_roteir IMPLEMENTATION.
+ENDCLASS.

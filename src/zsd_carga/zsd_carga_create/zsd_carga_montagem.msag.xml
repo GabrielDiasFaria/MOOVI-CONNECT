@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZSD_CARGA_MONTAGEM</ARBGB>
+    <MASTERLANG>P</MASTERLANG>
+    <STEXT>Conecta - mensagens de montagem de cargas</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZSD_CARGA_MONTAGEM</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Teste: &amp;1 remessa(s) recebida(s) juntas. Nenhuma carga criada.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZSD_CARGA_MONTAGEM</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Simulação: &amp;1 remessa(s), &amp;2 carga(s), &amp;3 excluída(s).</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZSD_CARGA_MONTAGEM</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Seleção indisponível ou inválida. Nenhuma carga foi criada.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZSD_CARGA_MONTAGEM</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Remessa bloqueada. Nenhuma carga foi criada; tente novamente.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZSD_CARGA_MONTAGEM</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Erro técnico ao preparar cargas. Nenhuma carga foi criada.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZSD_CARGA_MONTAGEM</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Criação preparada: &amp;1 remessa(s) em &amp;2 carga(s).</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZSD_CARGA_MONTAGEM</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Não combine simulação e criação na mesma transação.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZSD_CARGA_MONTAGEM</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Criação em validação. Nenhuma carga foi criada.</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

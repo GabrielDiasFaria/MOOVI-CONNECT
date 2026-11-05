@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZSD_CARGA_ROTEIR</ARBGB>
+    <MASTERLANG>P</MASTERLANG>
+    <STEXT>Conecta - mensagens de roteirização</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZSD_CARGA_ROTEIR</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Roteirização criada com sucesso</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZSD_CARGA_ROTEIR</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Roteirização indisponível: integração não concluída</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZSD_CARGA_ROTEIR</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Falha na roteirização: &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZSD_CARGA_ROTEIR</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Carga bloqueada para roteirização por outro usuário</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZSD_CARGA_ROTEIR</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Retorno CPI inválido ou incompleto para a carga</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZSD_CARGA_ROTEIR</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Roteirização preparada; grave para concluir</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZSD_CARGA_ROTEIR</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Carga não encontrada ou não está em montagem</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZSD_CARGA_ROTEIR</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Carga sem remessas ou com peso inválido</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZSD_CARGA_ROTEIR</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Peso total da carga excede 14.000 kg</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZSD_CARGA_ROTEIR</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Carga bloqueada ou já está em processamento</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZSD_CARGA_ROTEIR</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>Confirmação preparada; grave para concluir</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

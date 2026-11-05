@@ -1,0 +1,5 @@
+@EndUserText.label: 'Cargas e remessas para roteirização'
+define service ZUI_CARGA_ROTEIR {
+  expose ZI_CARGA_ROTEIR as Carga;
+  expose ZI_CARGA_DETALHE as Remessa;
+}

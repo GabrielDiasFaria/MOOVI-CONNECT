@@ -1,0 +1,4 @@
+@EndUserText.label: 'Remessas disponíveis para carga'
+define service ZUI_CARGA_REMESSA {
+  expose ZC_CARGA_REMESSA_DISP as Remessa;
+}

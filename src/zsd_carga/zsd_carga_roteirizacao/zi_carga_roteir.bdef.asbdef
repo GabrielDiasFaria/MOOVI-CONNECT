@@ -1,0 +1,8 @@
+unmanaged implementation in class zbp_i_carga_roteir unique;
+
+define behavior for ZI_CARGA_ROTEIR alias Carga
+{
+  field ( readonly ) CargaId, Status;
+  action confirmar;
+  action roteirizacao;
+}

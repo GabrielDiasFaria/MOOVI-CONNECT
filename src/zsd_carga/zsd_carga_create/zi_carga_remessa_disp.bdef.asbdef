@@ -1,0 +1,8 @@
+unmanaged implementation in class zbp_i_carga_remessa_disp unique;
+
+define behavior for ZI_CARGA_REMESSA_DISP alias Remessa
+{
+  field ( readonly ) DeliveryDocument;
+  action testar_selecao;
+  action criar_cargas;
+}

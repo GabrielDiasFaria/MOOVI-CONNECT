@@ -1,0 +1,7 @@
+projection;
+
+define behavior for ZC_CARGA_REMESSA_DISP alias Remessa
+{
+  use action testar_selecao;
+  use action criar_cargas;
+}
