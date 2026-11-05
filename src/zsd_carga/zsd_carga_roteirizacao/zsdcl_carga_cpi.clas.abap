@@ -57,7 +57,7 @@ CLASS zsdcl_carga_cpi IMPLEMENTATION.
     ENDIF.
 
     post( EXPORTING iv_destino = 'ZCONNECT_CPI'
-                    iv_caminho = '/http/moovicola/logistica/v1/todas'
+                    iv_caminho = '/http/moovicola/logistica/v1/rotas'
                     iv_content_type = 'application/json'
                     iv_body = iv_json
                     iv_token = ls_token-access_token
